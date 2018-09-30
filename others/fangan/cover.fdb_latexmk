@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1538198385 "cover.tex" "cover.pdf" "cover" 1538198386
+  "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1525520661 4220711 db74ad265aaadbc383c336c3f96911ad ""
+  "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "cover.aux" 1538198246 850 96fec5e1217c35b75c8daf316a03e631 ""
+  "cover.tex" 1538198385 130 63b819b656de9816188a075469216a80 ""
+  (generated)
+  "cover.log"
+  "cover.pdf"
